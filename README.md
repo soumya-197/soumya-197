@@ -43,4 +43,4 @@
 
 **✨MY STATS✨**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-197&layout=compact&theme=vision-friendly-bright)](https://github.com/soumya-197/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-197&layout=compact&theme=vision-friendly-dark)](https://github.com/soumya-197/github-readme-stats)
