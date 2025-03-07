@@ -8,6 +8,10 @@
 
 **✨ABOUT ME✨**
 
+🦋 Upcoming SWE at Google
+
+🦋 Ex-SWE Intern 2025 at Google 
+
 🦋 I am a Computer Science and Engineering Undergraduate at **Madhav Institute of Technology, Gwalior.**
 
 🦋 I love Competitive Programming, Web development and learning new skills. 
